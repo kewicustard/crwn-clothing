@@ -1,0 +1,2 @@
+Note
+1. heroku cli ต้อง run ด้วย administrator ถึงจะใช้ได้
